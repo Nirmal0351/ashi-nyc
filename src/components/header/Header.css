@@ -1,0 +1,8 @@
+.TopNav .TopBarWrap {
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 15px;
+    width: 1590px;
+    max-width: 100%;
+    margin: 0 auto;
+}
